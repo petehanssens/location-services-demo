@@ -1,5 +1,8 @@
 # Location Services Demo
 
+![Location Services Demo](/images/location-services-demo.png?raw=true "Location Services Demo")
+
+
 ## Creating a Geofence collection
 
 aws location create-geofence-collection --region ap-northeast-1 \
